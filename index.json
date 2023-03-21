@@ -2,10 +2,6 @@
   "title": "Vim Modes - 2",
   "description": "Text manipulation operations in Visual mode",
   "details": {
-    "intro": {
-      "text": "intro.md",
-      "background": "background.sh"
-    },
     "steps": [
       {
         "title": "Visual mode intro",
